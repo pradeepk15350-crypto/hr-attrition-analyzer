@@ -1,0 +1,23 @@
+HR ATTRITION RISK REPORT
+============================================================
+
+EMPLOYEE 1
+----------------------------------------
+Dept: Sales | Role: Sales Representative
+Risk Score: 76.4%
+
+AI Note:
+Based on the data analysis, the Sales Representative's risk score of 76.4% indicates a high risk level of turnover. The top two reasons they might leave are likely their relatively low monthly income of $1200 and their limited job tenure with no recent promotion, which may lead to feelings of underappreciation and stagnation. To mitigate this risk, I recommend an HR action of providing a performance-based development plan, which would include regular progress reviews and potential opportunities for growth and advancement within the Sales department. This would help to address the employee's concerns, boost their job satisfaction, and reduce the likelihood of them leaving the organization.
+
+============================================================
+
+EMPLOYEE 2
+----------------------------------------
+Dept: Research & Development | Role: Laboratory Technician
+Risk Score: 70.61%
+
+AI Note:
+Based on the provided data, the Laboratory Technician in the Research & Development department has a moderate to high risk score of 70.61%, indicating a significant risk of turnover. The top two reasons they might leave are likely related to their relatively low monthly income of $2871 and potential lack of opportunities for growth, despite being in a role for only a short time with their last promotion being recent. To mitigate this risk, I recommend an HR action of providing a comprehensive career development plan, including training and mentorship opportunities, to ensure the employee feels invested in and has a clear path for advancement. This proactive approach can help address potential concerns and increase job satisfaction and retention.
+
+============================================================
+
